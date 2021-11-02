@@ -1,0 +1,460 @@
+We are seeking a Machine Learning Engineer to develop and implement python-focused development tasks and machine learning algorithms into production. The ideal candidate has a deep understanding of both statistical and machine learning technologies with a focus on Natural Language Processing complemented by the ability to deliver products on time.
+
+In addition, the successful candidate can effectively communicate with both quantitative and qualitative arms of the company in order to understand business requirements. Lastly, she or he has a strong comprehension of data mining and predictive modeling, and how to apply machine learning methods, such as ensemble learning, deep learning, unsupervised clustering, etc. and keeps up-to-date with latest research in the field.
+
+Deploy at least three Machine Learning Models / improvements in production environment
+
+6-18 months: 
+
+Continue to interface between Product and Research as you design and deploy solutions
+Maintain and Improve existing Machine Learning documentation and codebase
+Deploy at least ten Machine Learning solutions in production environments with a focus on scalability and efficiency
+Work with leaders and mentors to set goals for yourself to gain consideration for career development within the company
+
+
+As a member of the Dojo machine learning team, you will be responsible for enabling Tesla’s neural networks to train efficiently on our upcoming in-house custom-silicon supercomputer systems. Join a small team of experienced developers in optimizing and scaling the deployment of our Pytorch-derived neural networks on Tesla's custom massively-parallel Dojo accelerators. Work with many of the same great engineers who delivered Tesla’s custom FSD computer. The ideal candidate has experience with writing software for large distributed systems.
+
+Responsibilities
+Understand and model the end to end training performance of the Autopilot SW team's Pytorch-derived neural networks on the Dojo system.
+Develop software that scales and improves training performance based on your analysis of bottlenecks
+Collaborate with the Dojo HW team to understand current HW architecture and propose future improvements
+Requirements
+BS in relevant field (Computer Science, Computer Engineering, etc.)
+Comfortable with C++ and Python
+Capable of delivering results with minimal oversight
+Good communication skills
+Nice To Have
+Experience scaling neural network training systems or other large distributed systems
+Familiarity with the internals of Pytorch
+Performance analysis experience
+Experience coding parallel programs
+Able to work from Deer Creek (Palo Alto) office
+Ready to start soon
+
+Must have a U.S. Citizenship
+Must have at least a Master’s degree, preferably in Computer Science or Mathematics
+Three to five years of experience of building and deploying machine learning or NLP intensive AI algorithms from scratch 
+Highly experienced in designing, building and shipping scalable and production-quality APIs for machine learning models
+Working knowledge and experience in NLP core components (NER, Entity Disambiguation, etc)
+In-depth expertise in Data Munging and Storage (Experienced in SQL, NoSQL, MongoDB, Graph Databases)
+Expertise in writing scalable APIs for machine learning models
+Experience with maintaining code logs, task schedulers, and security
+Working knowledge of machine learning techniques, feed-forward, recurrent and convolutional neural networks, entropy models, supervised and unsupervised learning
+Experience with at least one of the following: Keras, Tensorflow, Caffe, or PyTorch
+Strong willingness and aptitude for learning new concepts and analytical approaches
+
+
+Work on execution and scheduling of all tasks related to assigned projects’ deliverable dates
+Optimize and debug existing codes to make them scalable and improve performance
+Design, development and delivery of tested code and machine learning models into production environments
+Work effectively in teams, managing and leading teams 
+Provide effective, constructive feedback to the delivery leader
+Manage client expectations and work with an agile mindset with machine learning and AI technology
+Design and prototype data driven solutions
+
+
+The ideal candidate has experience putting industrial-scale Machine Learning Models into production, understands the needs of Data Scientists, is familiar with the biomedical domain, and is eager to apply his or her skills to improve patient outcomes.
+
+Build and deploy robust, industrial scale Machine Learning and Data Pipelines for structured and unstructured data
+Facilitate End-to-end large scale machine learning model integration
+Collaborate with product, science, engineering, and business development teams to build the most advanced data solutions in precision medicine
+Required Qualifications
+Proficient in Python.
+Experience working in GCP, AWS, and other Cloud Environments.
+Knowledge of best practices for code development, documentation, testing and deployment patterns.
+Experience building and maintaining robust, large-scale Machine Learning and Data Pipeline designed for scalability, repeatability, automation, CI/CD/CT, performance monitoring, model dashboarding.
+Strong programming skills, familiarity with software development cycles, solid understanding of software concepts - data structures and algorithms.
+Preferred Qualifications
+Experience with deployment of Natural Language Processing models.
+Experience with elastic search, knowledge graph.
+Experimental management and logging frameworks (e.g. MLflow), data and pipeline versioning.
+Experience with ML model testing: model performance, model health, etc.
+Good familiarity with deep learning frameworks: PyTorch, TensorFlow, Keras.
+Good familiarly Data Engineering & Architecture best practices.
+Biomedical domain expertise.
+
+Because our challenges are so new, members of our Machine Learning team need strong creative problem-solving skills and the technical background to implement solutions. Our research environment affords team members the opportunity to utilize a variety of statistical and machine learning methods with the freedom and encouragement to pursue alternative approaches to solving problems. Whether developing new products or identifying novel approaches to core models, we are continuously seeking the next big ideas to move our business forward.
+
+
+As a Machine Learning Engineer with Upstart, you'll enjoy a fast-paced environment with a focus on productionalizing, deploying and training machine learning models. You’ll also have an opportunity to work alongside a talented team that values curiosity, humility, drive and teamwork.
+Position Location - This role is available in the following locations: Austin, Columbus or Remote ()
+Time Zone Requirements - This team operates on either the East or West Coast time zones.
+Travel Requirements - This team has regular on-site collaboration sessions six times annually split between the San Mateo or Columbus office locations. If you need to travel to make these meetups, Upstart will cover all travel related expenses.
+What We’re Looking For
+2+ years of professional experience as a Machine Learning Engineer or production-focused Data Scientist or Research Scientist
+Knowledge of machine learning and statistics
+Experience with machine learning tools such as Scikit-learn, XGBoost and Keras/TensorFlow
+Fluency in Python coding as well as data manipulation (SQL, Spark, Pandas)
+Familiarity with CNNs, RNN, LSTMs, and the latest research trends
+Experience productionalizing, deploying, and training machine learning models
+Experience optimizing models for memory and speed
+Interest in helping other Research Scientists improve code quality in addition to conducting independent analyses
+Comfortable thinking about optimization functions, linear algebra, etc. as we develop custom learning algorithms
+Advanced degree in computer science, mathematics, statistics or related area of study
+
+We are looking for a talented Data Scientist with a strong background in Machine Learning techniques to join us in our commitment to improve the quality of care for patients in communities across the nation. You will be working with a growing multidisciplinary team of talented data scientists, other statisticians, engineers, and researchers to leverage unique healthcare data (in the form of MRI images, clinical reports, claims data, and beyond) to answer novel clinical questions. The datasets will be diverse and wholly distinct and cover all phases of care delivery (referral, diagnosis, therapy, and outcome/follow-up) from the perspective of various key stakeholders (patients, providers and payers). As a member of the team, you will work to create, extend, and validate the statistical models that power analytics at Covera Health. We encourage new opportunities to shape our data science strategy, and value those who can lead and mentor junior members along the way.
+
+
+Leverage a variety of healthcare data, including healthcare provider profile data, longitudinal claims data, and proprietary diagnostic imaging exam quality assessment data, to quantify the relationship between healthcare quality and patient outcomes, costs, and care patterns.
+Apply techniques to answer clinical questions, including the implementation of interpretable machine learning methods
+Create, extend, and validate models and methods for causal analysis and outcome prediction. 
+Collaborate with data science team members and other colleagues on data analysis projects and research activities.
+Communicate the results of analysis and research projects to internal and external stakeholders.
+Prepare and contribute material for academic publication and participate in scientific conferences.
+ 
+
+Ph.D or M.S. in statistics, biostatistics, healthcare economics, applied math, epidemiology, computer science or a related field.
+At least 1+ years of work experience as a Data Scientist following a PhD or 3+ years of experience following a Masters.
+Experience with random forests, ensemble techniques, supervised and unsupervised learning
+Exposure to causal inference methods such as propensity score matching and weighting is a plus.
+Experience and interest in interpretable Machine Learning is a big plus.
+Experience with Python and/or R.
+Experience developing code that is leveraged by a wider team and/or contributing to a collaborative code base.
+Strong communicator with excellent ability to work in a team environment.
+Experience working with real world medical data or claims data is a plus.
+Eager to learn new techniques and work at the intersection of machine learning and causal inference.
+
+What You’ll Do
+Lead biostatistics efforts in a team setting of fellow scientists and machine learning engineers
+Cross-functional collaboration with other teams to integrate large-scale datasets and use bioinformatics to define the factors associated with drug response and resistance
+Develop computational methods and build tools to enable data-driven patient stratification and inform the development of clinical decision support products
+Identify scientifically relevant findings within datasets spanning multiple modalities
+Develop scalable computational solutions to further clinical data analysis automation across projects
+Communicate findings both internally and externally and recommend follow up actions
+What You’ll Need
+Ph.D. in bioinformatics, engineering, statistics, biostatistics, biomedical engineering, cancer biology, immunology, genetics, or similar with 3+ years of industry experience or strong academic record.
+Demonstrated ability of contributing to multi-disciplinary team projects.
+Expertise with programming language such as R AND Python for complex data analysis and reproducible research practices.
+Mastery in integrating and analyzing diverse high-dimensional data sets relevant to oncology, immunology, and other areas of clinical relevance.
+Capability to conduct systematic analyses to evaluate multiple hypotheses and prioritize clinically-relevant questions.
+Scientific curiosity with an ability to identify questions that computational approaches can address, and the skills to develop solutions both independently and collaboratively.
+Excellent problem-solving and collaboration skills.
+Strong communication, data presentation, and visualization skills.
+Strong publication record.
+Background in clinical data/oncology/immuno-oncology and/or experience working with clinical trial data is a plus.
+
+As a machine learning engineer focused on applied ML, you will work closely with other teams to identify critical problems that can be solved using ML. You will co-develop a model, sometimes an ML system, with them and then, whenever possible, build and deploy the solution as a reusable and generalizable ML service. You will continue to build such services and onboard new applications to existing services over time.
+
+What You’ll Do Day To Day
+Dive into data to understand business problems that may benefit from ML
+Train novel machine learning models and take them to production
+Invest in feature engineering and model hyper-parameter tuning to improve predictive power and performance of the models
+After deployment, closely monitor the model and take recourse to model interpretability to understand how its impacts on users
+Work cross-functionally with data scientists, product managers, operations, and other engineering teams to build generalizable and reusable models
+Collaborate with our data infrastructure teams to build highly scalable services and systems
+Present ML success stories to internal and external audiences
+Survey the latest and greatest in various areas of ML and bring the benefits of those to the firm whenever possible
+About You
+MS/PhD and 2+ years of industry experience as Machine Learning Engineer preferred
+Bachelors and 5+ years of industry experience as Machine Learning Engineer preferred
+Solid understanding of machine learning and deep learning algorithms
+Experience of working with large, noisy and highly imbalanced datasets
+Experience of building and shipping ML models that are aligned with product roadmap
+Excellent programming skills, including proficiency in Python and/or Go
+Passion for working and learning in a fast-growing company
+Excellent communication skills to tell a story through data.
+Experience of building relationships and influencing stakeholders across multiple discipline
+Bonus Points
+Industry experience of delivering business impact with ML models or systems
+Research and publication experience in any field of machine learning
+Proof of excellence in Kaggle or similar forums
+Technologies We Use
+Python
+Go
+Scikit-learn
+Tensorflow or Pytorch
+Kubernetes
+Kafka
+
+Python (Programming Language)
+
+Machine Learning
+
+
+MySQL
+
+
+MATLAB
+
+C++
+Python (Programming Language)
+
+(You have this skill!)
+Deep Learning
+
+(You have this skill!)
+SciPy
+
+(You have this skill!)
+Machine Learning
+
+(You have this skill!)
+NumPy
+
+Matplotlib
+
+Microsoft Office
+
+Software Development Life Cycle (SDLC)
+
+Cluster Analysis
+
+MongoDB
+R (Programming Language)
+This is an opportunity to join our fast-growing Engineering Data Science team to help develop, deploy and maintain cutting-edge machine learning models to help augment our product offerings in security, authentication, applications, and customer experience. We are looking for senior machine learning engineers who can help architect and own the platform for deploying and optimizing the machine learning models used to protect user authentication and security. They will also own the pipeline which needs to process hundreds of millions of events per day and provide results back to the authentication system to make real-time risk evaluation during user authentication. This project has a directive from engineering leadership to make OKTA a leader in the use of data and machine learning to improve end-user security and to expand that core-competency across the rest of engineering.
+Our Perception team builds the technology that enables Snapchat’s camera to intelligently understand the world around us. This team is composed of innovative product thinkers, engineers, and scientists who work together to bring captivating Snapchat experiences to life — all powered by artificial intelligence.
+
+We're looking for a Machine Learning Product Engineer to join the Perception team!
+
+Python (Programming Language)
+
+(You have this skill!)
+Machine Learning
+
+(You have this skill!)
+TensorFlow
+
+(You have this skill!)
+Data Analysis
+
+(You have this skill!)
+MATLAB
+
+Research
+
+Electronics
+
+Bayesian inference
+
+R (Programming Language)
+
+Simulations
+
+What You’ll Do
+Develop machine learning and deep learning solutions across the entire machine learning workflow from data collection to model training, and solve visual recognition tasks such as classification, detection, and segmentation
+Optimize deep neural networks to run efficiently on mobile devices
+Apply findings from cutting edge research to help solve challenging product problems
+Work with product teams and engineers to make applications of computer vision ubiquitous to Snapchat
+Knowledge, Skills & Abilities
+Ability to read and implement related academic literature in deep learning and computer vision
+Solid understanding of the production machine learning workflow
+Minimum Qualifications
+Bachelor’s degree in a technical field such as computer science or equivalent experience
+3+ years of industry engineering or research and development experience
+Industry experience with one or more of the following: deep learning, large-scale visual search, image classification, object detection, semantic segmentation
+Experience with TensorFlow, PyTorch, or related deep learning framework
+Preferred Qualifications
+Masters/PhD in a technical field such as computer science or equivalent industry experience
+Publications in top-tier conferences such as CVPR, ICCV, ECCV, NIPS, ICML
+Experience building large-scale machine learning systems or computer vision applications
+We hope you will share our passion and great pride in the work we do and will join an engineering team that strongly believes in automated testing and an iterative process to build high-quality next-generation cloud platforms.
+
+Our elite team is fast, innovative, and flexible. We expect great things from our engineers and reward them with stimulating new projects and emerging technologies.
+
+Job Duties And Responsibilities
+Contribute to the architecture and ownership of the continuous delivery pipeline for developing, deploying, and maintaining machine learning models in production.
+Work with Data Scientists to help improve their productivity and implement their ideas
+Analyze performance metrics and logs to identify inefficiencies and opportunities to improve scalability and performance
+Research production issues using tools such as Splunk, Wavefront, CloudWatch, etc
+Maintain and enhance our performance monitoring and analysis telemetry, frameworks, and tools
+Test-driven development, design, and code reviews
+Minimum Required Knowledge, Skills, And Abilities
+3-6+ years experience building enterprise-grade highly reliable, mission-critical software or big data systems
+3+ years of experience deploying ML models in production environments serving with low latency.
+3+ years of experience with ML development systems: Sagemaker, TensorFlow, or PyTorch
+Advanced Python programming
+Advanced experience with Object-Oriented Language like Java
+The Following Experience Is a Plus
+3+ years experience with streaming systems: MQ, Kafka, Storm, Spark, Flink etc.
+Experience with the data toolchains: Snowflake, EMR, Kinesis, Redshift, Glue or similar
+Working knowledge of AWS Lambda, and API Gateway including production deployment
+Experience with Docker, Terraform, Chef, Jenkins, or similar build tools
+Jupyter Notebooks
+Redis
+An Overview Of Our Tech Stack
+Our primary programming languages are Java and JavaScript
+We use open source frameworks such as React, Hibernate and Spring Boot
+We run on best of breed infrastructure including MySQL, GitHub, Redis, Kinesis and Elasticsearch
+We make extensive use of virtualization and containers: AWS, Vagrant, Docker
+Our weekly production releases are made possible by Continuous Integration and sophisticated build, test and release automation leveraging Maven, npm, Artifactory, Chef, Ansible and the like
+We participate in the OpenSource community with the likes of https://github.com/okta/okta-auth-js
+Java
+Python (Programming Language)
+
+(You have this skill!)
+Machine Learning
+
+(You have this skill!)
+SQL
+
+(You have this skill!)
+Deep Learning
+
+(You have this skill!)
+MySQL
+
+(You have this skill!)
+Natural Language Processing (NLP)
+
+(You have this skill!)
+C++
+
+Java
+
+Computer Vision
+
+R (Programming Language)
+Leadership
+
+Research
+
+In this role, you will work on the analytics and experimentation team where you'll incorporate Machine Learning models into the enterprise system. In addition, you'll play a key role in making the Machine Learning and Analytics platform more intelligent!
+Python (Programming Language)
+
+(You have this skill!)
+SQL
+
+(You have this skill!)
+Natural Language Processing (NLP)
+
+(You have this skill!)
+Microsoft Office
+OB AT A GLANCE:
+
+The Machine Learning Engineering team at Ampersand is seeking a Machine Learning Engineer focused on productionizing Bayesian models developed by the Data Science group.
+
+Samples of the types of model output you will be working with may be found in the example notebooks of our open source repository, PyMC3-HMM.
+
+[DEL: :DEL]
+
+ESSENTIAL FUNCTIONS:
+
+In our experience, there is not necessarily a specific background common to ML Engineers so here are a few of the different responsibilities you might take on:
+
+Extend the open source Aesara and PyMC3-HMM packages 
+Develop tools to visualize model results using Matplotlib 
+Write and optimize Clickhouse SQL queries and design relational schemas for efficient storage and computation 
+Use Github actions to create Docker images for use by AWS Batch as part of our production pipeline 
+Design custom metadata services to manage the state of our model fits
+
+
+EDUCATION, SKILLS & EXPERIENCE:
+
+ You must have intermediate to advanced knowledge of Python 
+We use `git` for version control and expect that you have significant experience collaborating on a team using git-based workflows and continuous integration.
+
+Bonus points for: It will be easier to convince us to hire you if have open source contributions, blog posts, or public projects we can evaluate. Of course, we recognize that not everyone has the opportunity to work on these kinds of projects so they are in no way a requirement.
+
+
+C (Programming Language)
+
+MATLAB
+
+Tableau
+
+R (Programming Language)
+
+Machine Learning Algorithms
+
+LaTeX
+
+Responsibilities
+
+Work closely with data scientists, software developers and product managers to take ML-powered services from inception to production
+Lead exploration, design and execution of machine learning models and frameworks that deliver value to our users.
+Build data pipelines and leverage high-quality datasets to power your Machine learning models
+
+Qualifications
+
+
+As an Applied Machine Learning Engineer, you will collaborate with other data scientists, as well as members of the platform engineering team in order to execute cutting-edge machine learning techniques to find fraud, waste, and abuse in healthcare data. Your goal is to train and test models on millions of data-points, and help build-out a state-of-the-art human-in-the-loop ML infrastructure.
+
+
+In this role, you will report directly to the Head of Data Science at our New York City headquarters. This role will remote until it is safe to return to the office. You will collaborate with other data scientists, as well as members of the platform engineering team. You will also engage in daily interactions with domain experts on the payment integrity team.
+
+
+What you'll do:
+
+Execute cutting-edge machine learning techniques to find fraud, waste, and abuse in healthcare data.
+Make infrastructural choices in order to ensure that the trained models scale well across millions of health insurance claims
+Run unsupervised anomaly detection on millions of heterogeneous health-insurance features using PySpark.
+Shine a bright light on black-box models to make all anomalous signals easily interpretable.
+Interact with domain experts and encoding their experience into simple heuristics. Pushing these heuristics to production for the purposes of weak supervision.
+Train large-scale, weakly-supervised ML models using tools like Snorkel. Making sure these models are interpretable.
+Tweak models using expert feedback. Building dashboards to solicit that feedback using human-in-the-loop training techniques.
+Experiment with transformer model applications using the Pytorch / Tensorflow libraries.
+
+What you'll need:
+
+Standard knowledge of Python data-science stack 
+5+ years in software engineering experience
+Hacker mindset
+Experience building out production-ready machine learning solutions 
+Bachelor's degree required; Masters or PhD preferred!
+1+ yrs experience as part of a data science, machine learning, or other software development team
+Proficiency in Python
+Experience with machine learning frameworks & toolkits
+Experience building and productionizing applied machine learning products
+Experience with big data, preferably using Spark, Hadoop and Hive.
+Affirm’s Machine Learning team solves problems critical to our business model - personalizing shopping experiences, detecting fraud, optimizing interest rates, and assessing creditworthiness in real time. Our innovative products necessitate the creation of novel machine learning solutions to drive both existing and new products.
+
+What you'll do
+Use Affirm’s data to develop machine learning models that predict cash flows, financing programs, and optimize pricing for merchants.
+Build financial forecasting applications for Affirm’s two-sided marketplace
+Research ground breaking solutions and develop prototypes that drive the future of decisioning at Affirm
+Implement and scale data pipelines, new features, and algorithms that are essential to our production models
+Collaborate with the engineering, quantitative markets, merchant pricing, and product teams to define requirements for new products
+Evaluate new data sources to use in a cost-effective way in our models to add value
+What we look for
+B.S. with 7+ years of industry experience, M.S. with 5+ years, or PhD with 4+ years
+Proficiency in machine learning with experience in areas such as gradient boosting, deep learning, recommendation systems, computational advertising, reinforcement learning, financial forecasting, time series analysis, anomaly detection, monte-carlo simulations, and Markov decision processes
+Strong programming skills in Python. Experience using frameworks for machine learning and data science like scikit-learn, pandas, numpy, XGBoost, TensorFlow, mllib
+Experience with the AWS technical stack and data infrastructure such as MySQL, Spark, Kubernetes, Docker, and Airflow
+Excellent written and oral communication skills and the capability to drive cross-functional requirements with product and engineering teams
+The ability to present technical concepts and results in an audience-appropriate way
+Persistence, patience and a great sense of responsibility – we build the decisioning that drives Affirm’s business!
+
+Statistics
+
+Data Analysis
+
+
+High-Performance Liquid Chromatography (HPLC)
+Data Science
+
+(You have this skill!)
+Pandas (Software)
+
+(You have this skill!)
+MySQL
+
+(You have this skill!)
+Microsoft Excel
+
+Tableau
+
+R (Programming Language)
+
+Data Analytics
+
+Data Mining
+
+Big Data
+
+Google Cloud Platform (GCP)
+
+Statistics
+
+MATLAB
+
+Microsoft Office
+
+Research
+
+C++
+
+ArcGIS Products
+
+BERT
+
+MODFLOW
