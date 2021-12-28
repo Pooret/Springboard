@@ -43,7 +43,9 @@ I generated flags based off whether or not the email patterns were part of a rec
       
  
                
-## Cleaned and Preprocessed Table
+## Cleaned and Encoded Table
+
+The table below is the result of the data wrangling for the project. I did not have time, but I wanted to try encoding to an ordinal encoding for flags, org_id, and the type of invite, as it would do better than the one hot encoding with including the org_id column as it's cardinality is too high to one hot encode it.
 
 |   object_id |   opted_in_to_mailing_list |   enabled_for_marketing_drip |   org_id |   account_age |   last_seen_active |   flags_username |   flags_domain |   flags_inactivity |   flags_org |   flags_spammers |   GUEST_INVITE |   ORG_INVITE |   PERSONAL_PROJECTS |   SIGNUP |   SIGNUP_GOOGLE_AUTH |
 |------------:|---------------------------:|-----------------------------:|---------:|--------------:|-------------------:|-----------------:|---------------:|-------------------:|------------:|-----------------:|---------------:|-------------:|--------------------:|---------:|---------------------:|
