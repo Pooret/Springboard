@@ -3,8 +3,6 @@ _A brief writeup_
 
 For this take home challenge, I cleaned and preprocessed the data, created target variable "is_adopted" for users that have signed in at least three distint times over a period of 7-days, feature engineering to create flags for suspicious email names, domain names, frequent spammers, inactive users, and affiliations with known spam organizations. 
 
-I thoroulgy enjoyed this take home challenge. I would suggest while looking at the code to listen to the soundtrack provided at the top, which is what I listed to while working on this (theme relax).
-
 
 ## My approach to the problem
  The first obstacle that I addressed is creating the target variable that I will eventually use to make predictions (which I hope to do soon). To do this I wrote a function `adopted_user()` which takes in a user id and returns whether the user was considered adopted.
